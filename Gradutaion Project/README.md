@@ -15,19 +15,6 @@ A smart, AI-powered resume screening application that leverages **Natural Langua
 - [Usage](#-usage)
 - [Sample Output](#-sample-output)
 - [Screenshots](#-screenshots)
-- [Contributors](#-contributors)
-
----
-## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Tech Stack](#-tech-stack)
-- [Features](#-features)
-- [System Architecture](#-system-architecture)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Sample Output](#-sample-output)
-- [Screenshots](#-screenshots)
 
 ---
 ## 📄 Overview
