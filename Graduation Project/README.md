@@ -4,20 +4,6 @@
 A smart, AI-powered resume screening application that leverages **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** to automate and optimize the hiring process. Built to help HR professionals efficiently filter and evaluate resumes based on job requirements.
 
 ---
-
-## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Tech Stack](#-tech-stack)
-- [Features](#-features)
-- [System Architecture](#-system-architecture)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Sample Output](#-sample-output)
-- [Screenshots](#-screenshots)
-- [Contributors](#-contributors)
-
----
 ## 📌 Table of Contents
 
 - [Overview](#-overview)
