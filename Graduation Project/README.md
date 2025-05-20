@@ -99,8 +99,8 @@ PDF Resumes
 
 1. **Clone the Repository**  
 ```
-git clone 
-cd resume-screening/Chatbot_version_1
+git clone https://github.com/remoraafat/Egypt-Pioneers-Initiative-Data-science.git
+cd "Graduation Project"
 ```
 
 2. **Create a Virtual Environment (Recommended)**  
